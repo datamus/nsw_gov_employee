@@ -60,9 +60,3 @@ You have been asked to prepare an analysis on part-time employees to brief your 
 | Treasury                    | 0.2302          | 0.2956            | -82.70                                           |
 | **Sector-Wide**             | **0.1834**      | **0.2417**        |                                                  |
 
-### Data File
-The Microsoft Excel data file can be found in the task resources section below.
-
----
-
-This description provides a comprehensive overview of your project, including the analysis performed, the findings, and the projections made. You can copy and paste this into your GitHub repository's README.md file to give viewers a clear understanding of your work.
